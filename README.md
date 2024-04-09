@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Hi 我是周荣
+
+## 表情与情感
+😀😃😄😁😆😅🤣😂🙂🙃😉😊😇🥰😍🤩😘😗😚😙😋😛😜🤪😝🤑🤗🤭🤫🤔🤐🤨😐😑
+
+
 <!--
 **ckzhourong/ckzhourong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

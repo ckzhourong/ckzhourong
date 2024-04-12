@@ -45,7 +45,7 @@
 [美联社](https://www.ap.org/cn/)
 [7*24小时全球实时财经新闻直播](http://finance.sina.com.cn/7x24/?tag=10)
 [全球经济数据](https://www.cnfin.com/data/macro-data/index.html)
-[今日热榜](https://tophub.today/c/ent)！🏡免费|全网新闻资讯
+[今日热榜](https://tophub.today/c/ent)……🏡免费|全网新闻资讯
 [赞呗](https://zan.best/#/)🏡免费|全网新闻资讯
 [anyknew](https://www.anyknew.com/#/)🏡免费|全网新闻资讯
 [鱼塘](https://mo.fish/)
